@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: content-box;
+}
+
+.caja{
+	height: 200px;
+	width: 200px;
+	position: relative;
+}
+
+.rosa{
+	background-color: #ee3e64;
+}
+.azul{
+	background-color: #44accf; 
+	margin-left: 200px;
+}
+.verde{
+	background-color: #b7d84b;
+}
